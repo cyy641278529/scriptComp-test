@@ -1,6 +1,6 @@
 ## Game Engine 3D
 
-A simple 3d game engine
+ScriptComp-test for engine-3d
 
 ## Install
 

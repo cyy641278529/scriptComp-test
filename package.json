@@ -1,7 +1,7 @@
 {
-  "name": "engine-3d",
-  "version": "0.12.1",
-  "description": "Simple 3D Game Engine",
+  "name": "ScriptComp-test",
+  "version": "0.0.1",
+  "description": "ScriptComp-test for engine-3d",
   "main": "dist/engine.js",
   "module": "index.js",
   "jsnext:main": "index.js",
@@ -25,7 +25,8 @@
   "keywords": [
     "engine",
     "3d",
-    "game"
+    "game",
+    "ScriptComp-test"
   ],
   "author": "cocos",
   "license": "MIT",
